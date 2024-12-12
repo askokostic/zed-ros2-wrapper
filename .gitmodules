@@ -1,4 +1,5 @@
 [submodule "zed-ros2-interfaces"]
 	path = zed-ros2-interfaces
-	url = https://github.com/stereolabs/zed-ros2-interfaces.git
-	branch = main
+	url = https://github.com/askokostic/zed-ros2-interfaces/
+	branch = humble-v4.1.4-skc
+	
